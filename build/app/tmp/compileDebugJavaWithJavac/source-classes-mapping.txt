@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/tugasmod3kel06/BuildConfig.java
+ com.example.tugasmod3kel06.BuildConfig
